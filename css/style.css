@@ -1,0 +1,201 @@
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background-color: rgb(248, 242, 242);
+        }
+        
+        .title1 {
+            text-align: center;
+        }
+        
+        .para {
+            text-align: center;
+            font-size: 18;
+            padding-top: 15px;
+            font-family: Arial, Helvetica, sans-serif
+        }
+        
+        .perents {
+            width: 70%;
+            height: 600px;
+            background-color: rgb(251, 251, 251);
+            border-radius: 15px;
+            margin: auto;
+            margin-top: 50px;
+            position: relative;
+            padding: 20 25;
+            text-align: center;
+        }
+        
+        .first {
+            width: 90%;
+            padding-top: 25px;
+            margin: auto;
+        }
+        
+        .div1 {
+            height: 200px;
+            width: 200px;
+            background-image: url(../image/3.jpg);
+            float: left;
+            margin-left: 80px;
+            border-radius: 20px;
+            background-size: cover;
+            background-position: center;
+        }
+        
+        .div11 {
+            position: absolute;
+            height: 80px;
+            width: 200px;
+            opacity: 0;
+            margin-top: 120px;
+        }
+        
+        p {
+            padding-top: 5px;
+            font-style: italic;
+            font-size: 14px;
+        }
+        
+        h2 {
+            padding-top: 10px;
+        }
+        
+        .div11:hover {
+            opacity: .6;
+            background-color: azure;
+        }
+        
+        .div2 {
+            height: 200px;
+            width: 200px;
+            background-image: url(../image/2.jpg);
+            float: left;
+            margin-left: 80px;
+            border-radius: 20px;
+            background-size: cover;
+            background-position: center;
+        }
+        
+        .div21 {
+            position: absolute;
+            height: 80px;
+            width: 200px;
+            opacity: 0;
+            margin-top: 120px;
+        }
+        
+        .div21:hover {
+            opacity: .6;
+            background-color: azure;
+        }
+        
+        .div3 {
+            height: 200px;
+            width: 200px;
+            background-image: url(../image/1.png);
+            float: left;
+            margin-left: 80px;
+            border-radius: 20px;
+            background-size: cover;
+            background-position: center;
+        }
+        
+        .div31 {
+            position: absolute;
+            height: 80px;
+            width: 200px;
+            opacity: 0;
+            margin-top: 120px;
+        }
+        
+        .div31:hover {
+            opacity: .6;
+            background-color: azure;
+        }
+        
+        .second {
+            width: 90%;
+            margin: auto;
+            margin-top: 10px;
+        }
+        
+        .div4 {
+            height: 200px;
+            width: 200px;
+            background-image: url(../image/6.jpg);
+            float: left;
+            margin-left: 80px;
+            margin-top: 25px;
+            border-radius: 20px;
+            background-size: cover;
+            background-position: center;
+        }
+        
+        .div41 {
+            position: absolute;
+            height: 80px;
+            width: 200px;
+            opacity: 0;
+            margin-top: 120px;
+        }
+        
+        .div41:hover {
+            opacity: .6;
+            background-color: azure;
+        }
+        
+        .div5 {
+            height: 200px;
+            width: 200px;
+            background-image: url(../image/5.jpg);
+            float: left;
+            margin-left: 80px;
+            margin-top: 25px;
+            border-radius: 20px;
+            background-size: cover;
+            background-position: center;
+        }
+        
+        .div51 {
+            position: absolute;
+            height: 80px;
+            width: 200px;
+            opacity: 0;
+            margin-top: 120px;
+        }
+        
+        .div51:hover {
+            opacity: .6;
+            background-color: azure;
+        }
+        
+        .div6 {
+            height: 200px;
+            width: 200px;
+            float: left;
+            margin-left: 80px;
+            margin-top: 25px;
+            border-radius: 20px;
+            background-image: url(../image/4.jpg);
+            background-size: cover;
+            background-position: center;
+        }
+        
+        .div61 {
+            position: absolute;
+            height: 80px;
+            width: 200px;
+            opacity: 0;
+            margin-top: 120px;
+        }
+        
+        .div61:hover {
+            opacity: .5;
+            background-color: azure;
+        }
