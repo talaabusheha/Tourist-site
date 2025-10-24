@@ -21,13 +21,13 @@
         
         .perents {
             width: 70%;
-            height: 600px;
+            max-height: 600px;
             background-color: rgb(251, 251, 251);
             border-radius: 15px;
             margin: auto;
             margin-top: 50px;
             position: relative;
-            padding: 20 25;
+            padding: 20px 25px;
             text-align: center;
         }
         
@@ -198,4 +198,5 @@
         .div61:hover {
             opacity: .5;
             background-color: azure;
+
         }
